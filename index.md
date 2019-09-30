@@ -303,11 +303,10 @@ please preview your site before committing, and make sure to run
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="shell-windows">
         <ol>
-          <li>If you are usung a latop download the mobaxterm personal edition for Windows <a href="https://mobaxterm.mobatek.net/download-home-edition.html">installer</a>.</li>
-          <li>Run the installer and follow the steps below:
+          <li>If you are using a latop download the mobaxterm personal edition for Windows <a href="https://mobaxterm.mobatek.net/download-home-edition.html">installer</a>.</li>
+          <li>Run the installer.
           </li>         
         </ol>
-        <p>This will provide you with both Git and Bash in the Git Bash program.</p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="shell-macos">
         <p>
